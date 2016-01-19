@@ -1,0 +1,6 @@
+/home/jadams/projects/eezy/solr-playground/lucene-query-example/src/main/java/com/o19s/RedisScoreQuery.java
+/home/jadams/projects/eezy/solr-playground/lucene-query-example/src/main/java/com/o19s/CountingQuery.java
+/home/jadams/projects/eezy/solr-playground/lucene-query-example/src/main/java/com/o19s/BackwardsTermCustomQuery.java
+/home/jadams/projects/eezy/solr-playground/lucene-query-example/src/main/java/com/o19s/CountingScoreProvider.java
+/home/jadams/projects/eezy/solr-playground/lucene-query-example/src/main/java/com/o19s/BackwardsTermQuery.java
+/home/jadams/projects/eezy/solr-playground/lucene-query-example/src/main/java/com/o19s/BackwardsScoreProvider.java
