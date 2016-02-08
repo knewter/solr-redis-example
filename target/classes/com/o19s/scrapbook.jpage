@@ -1,4 +1,0 @@
-redis.clients.jedis.Jedis jedis = new redis.clients.jedis.Jedis("localhost");
-jedis.set("foo", "bar");
-String value = jedis.get("foo");
-System.out.println(value);
